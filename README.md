@@ -1,12 +1,12 @@
 ### Hi there 👋
-![Banner]("https://www.canva.com/design/DAE7ngcOiyA/qaD15pHODD111JkY60AiMQ/view?utm_content=DAE7ngcOiyA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink")
+![Banner](https://www.canva.com/design/DAE7ngcOiyA/qaD15pHODD111JkY60AiMQ/view?utm_content=DAE7ngcOiyA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ✨ Arooba Siddiqi ✨ 
 
 I am a Software Engineer passionate about creating wonderful Web Experiences.
 
-Web Design 🖍 ![Figma]("https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor")   ![Adobe XD]("https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6")
+Web Design 🖍 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor)   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-Web Development
+Web Development 👩‍💻 
 - 🔧 Tools I enjoy using : [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AroobaSiddiqi)   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - 💻 Technologies I've worked with : ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)   ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 - 🌱 I’m currently learning MERN stack for Web Development, focusing on Front-End Development.
