@@ -1,6 +1,4 @@
-### Hi there 👋
-![Banner](https://ibb.co/cLVzc63)
-✨ Arooba Siddiqi ✨ 
+![Banner](https://user-images.githubusercontent.com/56760471/159291469-a86134b3-9df9-4815-8334-303d1ac8efa4.png)
 
 I am a Software Engineer passionate about creating wonderful Web Experiences. I’m currently learning MERN stack for Web Development, focusing on Front-End Development.
 
