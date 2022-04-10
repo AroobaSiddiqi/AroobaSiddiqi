@@ -1,6 +1,8 @@
-![Banner](https://user-images.githubusercontent.com/56760471/159291469-a86134b3-9df9-4815-8334-303d1ac8efa4.png)
+![gitBanner](https://user-images.githubusercontent.com/56760471/162610821-97fc7d6f-ff51-493c-80c8-4d5e983bd80a.png)
 
-I am a Software Engineer passionate about creating wonderful Web Experiences. I’m currently learning MERN stack for Web Development, focusing mostly on Front-End.
+I am a Software Engineer passionate about creating wonderful Web Experiences. 
+
+Learning MERN stack for Web Development, focusing on Front-End.
 
 Web Design 🖍
 
