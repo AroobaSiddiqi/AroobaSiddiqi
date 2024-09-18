@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer 👩🏻‍💻</h3>
 
  <h5 align="center">
-  <i>Currently learning **Next js**</i>
+  Currently learning **Next js**
 </h5>
 
 
