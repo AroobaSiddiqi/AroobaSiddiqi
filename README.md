@@ -5,7 +5,9 @@
 
 <div style="display: flex; align-items: center;">
   <h3 style="margin: 0;">Connect with me </h3>
-[![Connect with me](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
