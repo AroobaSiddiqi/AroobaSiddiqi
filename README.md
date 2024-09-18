@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:arooba.asiddiqi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
-<br/>
+<br/><br/>
 
 <h3 align="left">Skills</h3>
 <a href="https://skillicons.dev">
