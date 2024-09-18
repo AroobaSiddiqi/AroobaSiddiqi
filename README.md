@@ -19,12 +19,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-iota-five-99.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=radical&include_all_commits=true"
+    srcset="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=radical&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-iota-five-99.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=buefy&include_all_commits=true"
+    srcset="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=buefy&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-iota-five-99.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </picture>
