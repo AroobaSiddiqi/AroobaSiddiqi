@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arooba Siddiqi</h1>
 <h3 align="center">A passionate Frontend Developer 👩🏻‍💻</h3>
-
- <h5 align="center">
-  Currently learning **Next js**
-</h5>
+<p align="center">Currently learning <b>Next js</b></p>
 
 
 <div style="display: flex; align-items: center;">
