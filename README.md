@@ -1,24 +1,28 @@
 <h1 align="center">Hi 👋, I'm Arooba Siddiqi</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
- I’m currently learning **Next js**
+ <i align="center">Currently learning **Next js** </i>
+
+<br/><br/>
 
 <div style="display: flex; align-items: center;">
-  <h3 style="margin: 0;">Connect with me </h3>
+  <h3 style="margin: 0;">Connect with me 😊</h3>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 
+<br/><br/>
+
 <h3 align="left">Skills</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,js,py,ts" /><br />
-<img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nextjs,react,sklearn,selenium,tailwind,mysql,opencv" /><br />
-<img src="https://skillicons.dev/icons?i=aws,git,firebase,postman,figma" /><br />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,js,py,ts" /><br/>
+<img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nextjs,react,sklearn,selenium,tailwind,mysql,opencv" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,git,firebase,postman,figma" /><br/>
   </a>
 
-<br><br> 
+<br/><br/> 
 
 <picture>
   <source
