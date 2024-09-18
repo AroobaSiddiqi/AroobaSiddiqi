@@ -4,10 +4,8 @@
  I’m currently learning **Next js**
 
 <div style="display: flex; align-items: center;">
-  <h3 style="margin: 0;">Connect with me:</h3>
-  <a href="https://linkedin.com/in/aroobasiddiqi" target="blank" style="margin-left: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aroobasiddiqi" height="30" width="40" />
-  </a>
+  <h3 style="margin: 0;">Connect with me </h3>
+[![Connect with me](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
