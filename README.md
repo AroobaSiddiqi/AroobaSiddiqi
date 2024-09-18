@@ -12,7 +12,7 @@
 
 <h3 align="left">Skills</h3>
 
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" style="margin-bottom: 20px;">
     <img src="https://skillicons.dev/icons?i=cpp,css,html,js,py,ts" /><br />
 <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nextjs,react,sklearn,selenium,tailwind,mysql,opencv" /><br />
 <img src="https://skillicons.dev/icons?i=aws,git,firebase,postman,figma" /><br />
