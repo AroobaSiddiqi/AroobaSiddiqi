@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arooba Siddiqi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
- <i align="center">Currently learning **Next js** </i>
+ <h2 align="center">
+  <i>Currently learning **Next js**</i>
+</h2>
 
-<br/><br/>
 
 <div style="display: flex; align-items: center;">
   <h3 style="margin: 0;">Connect with me 😊</h3>
