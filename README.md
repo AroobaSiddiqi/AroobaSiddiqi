@@ -11,13 +11,13 @@
 </div>
 
 <h3 align="left">Skills</h3>
-<p align="center">
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,js,py,ts" />
-<img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nextjs,react,sklearn,selenium,tailwind,mysql,opencv" />
-<img src="https://skillicons.dev/icons?i=aws,git,firebase,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,js,py,ts" /><br />
+<img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nextjs,react,sklearn,selenium,tailwind,mysql,opencv" /><br />
+<img src="https://skillicons.dev/icons?i=aws,git,firebase,postman,figma" /><br />
   </a>
-</p>
+
 
 <picture>
   <source
