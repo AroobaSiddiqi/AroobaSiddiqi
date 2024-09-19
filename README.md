@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Arooba Siddiqi</h1>
-<h3 align="center">A passionate Frontend Developer 👩🏻‍💻</h3>
+<h1 align="center">Hi 👋, I'm Arooba Siddiqi 👩🏻‍💻</h1>
+<i align="center">A passionate Frontend Developer</i>
 <div align="center">
 <a href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" /></a>
 &nbsp;
