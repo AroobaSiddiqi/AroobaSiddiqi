@@ -9,10 +9,10 @@
 <br/><br/>
 
 <h3 align="left">Skills</h3>
-<a href="https://skillicons.dev">
+<a href="https://github.com/LelouchFR/skill-icons">
  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts" /><br/>
- <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nextjs,react,sklearn,selenium,tailwind,mysql,opencv" /><br/>
- <img src="https://skillicons.dev/icons?i=aws,git,firebase,postman" /><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,dotnet,nextjs,react,sklearn,selenium,tailwind,mysql,opencv,reactquery,stripe,swagger" /><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,git,firebase,postman,googleanalytics,jira" /><br/>
 </a>
 
 <br/><br/> 
