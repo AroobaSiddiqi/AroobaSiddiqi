@@ -7,10 +7,6 @@
 <a href="mailto:arooba.asiddiqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
 </div>
 
-<br/><br/>
-
-<p>Currently learning <b>Next js</b></p>
-
 
 <h3 >Skills</h3>
 <a href="https://github.com/LelouchFR/skill-icons">
