@@ -10,15 +10,12 @@
 
 <h3 >Skills</h3>
 <a href="https://github.com/LelouchFR/skill-icons">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts" /><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,dotnet,nextjs,react,tailwind,reactquery" /><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,selenium,mysql,opencv,stripe,swagger" /><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,git,firebase,postman,googleanalytics,jira" /><br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" /><br/>
 </a>
 
 <br/><br/>
 
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=radical&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: dark)"
