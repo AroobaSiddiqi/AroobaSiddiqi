@@ -8,7 +8,7 @@
 </div>
 
 
-<h3 >Skills</h3>
+<div align="center">
 <a href="https://github.com/LelouchFR/skill-icons">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" /><br/>
 </a>
@@ -26,3 +26,4 @@
   />
   <img src="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </picture>
+</div>
