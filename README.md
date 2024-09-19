@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Arooba Siddiqi</h1>
 <h3 align="center">A passionate Frontend Developer 👩🏻‍💻</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:arooba.asiddiqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/?view=cm&fs=1&to=arooba.asiddiqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/><br/>
