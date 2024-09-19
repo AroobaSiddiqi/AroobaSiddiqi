@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arooba Siddiqi</h1>
 <h3 align="center">A passionate Frontend Developer 👩🏻‍💻</h3>
-<p align="center">Currently learning <b>Next js</b></p>
-<a align="center" href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a align="center" href="mailto:arooba.asiddiqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arooba.asiddiqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
+</div>
 
 <br/><br/>
 
+<p align="center">Currently learning <b>Next js</b></p>
 <h3 align="left">Skills</h3>
 <a href="https://github.com/LelouchFR/skill-icons">
  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts" /><br/>
