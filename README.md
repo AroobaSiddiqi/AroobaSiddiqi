@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arooba Siddiqi</h1>
 <h3 align="center">A passionate Frontend Developer 👩🏻‍💻</h3>
 <p align="center">Currently learning <b>Next js</b></p>
-
-<h3 style="margin: 0;">Connect with me</h3>
-<a href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:arooba.asiddiqi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a align="center" href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a align="center" href="mailto:arooba.asiddiqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
