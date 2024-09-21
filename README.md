@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-<div align="center">
-<a href="https://github.com/LelouchFR/skill-icons">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" /><br/>
+
+<a align="center" href="https://github.com/LelouchFR/skill-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" />
 </a>
 
 <br/><br/>
