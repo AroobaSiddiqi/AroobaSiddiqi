@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<picture align="center">
+<picture>
   <source
     srcset="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=github_dark&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: dark)"
@@ -26,6 +26,7 @@
     srcset="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=buefy&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <img src="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="display: block; margin: 0 auto;" />
 </picture>
+
 </div>
