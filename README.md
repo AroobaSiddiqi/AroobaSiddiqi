@@ -10,8 +10,10 @@
 </div>
 
 <br/><br/>
+![](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)
 
 
+<br/><br/>
 
   <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" />
 
