@@ -1,6 +1,6 @@
 
 
-<p align="center">
+<div align="center">
 <h1>Hi 👋, I'm Arooba Siddiqi 👩🏻‍💻</h1>
 <i>A passionate Frontend Developer</i>
 <br/><br/>
@@ -8,8 +8,10 @@
 &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arooba.asiddiqi@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
 <br/><br/>
+<p align="center">
   <img src="[https://picsum.photos/460/300](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)">
 </p>
+</div>
 
 
 <br/><br/>
