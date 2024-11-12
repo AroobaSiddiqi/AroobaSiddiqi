@@ -6,10 +6,6 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arooba.asiddiqi@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)
-
-<br/><br/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" />
 
 <br/><br/>
