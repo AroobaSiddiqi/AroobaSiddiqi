@@ -5,6 +5,7 @@
 &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arooba.asiddiqi@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
 <br/>
+
 ![](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)
 
 <br/><br/>
