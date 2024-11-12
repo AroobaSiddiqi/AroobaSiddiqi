@@ -8,7 +8,7 @@
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" />
 
-<br/><br/>
+<br/>
 
 <picture>
   <source
