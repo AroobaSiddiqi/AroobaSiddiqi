@@ -1,20 +1,24 @@
 
 
-<div align="center">
+<p align="center">
 <h1>Hi 👋, I'm Arooba Siddiqi 👩🏻‍💻</h1>
 <i>A passionate Frontend Developer</i>
 <br/><br/>
 <a href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" /></a>
 &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arooba.asiddiqi@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
-</div>
+<br/><br/>
+  <img src="[https://picsum.photos/460/300](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)">
+</p>
+
 
 <br/><br/>
 
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,css,html,js,py,ts,bootstrap,dotnet,nextjs,react,tailwind,reactquery,sklearn,selenium,mysql,opencv,stripe,swagger,aws,git,firebase,postman,googleanalytics,jira" />
 
 <br/><br/>
- <p>  
+ 
+<p align="center">
 <picture>
   <source
     srcset="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=outrun&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
@@ -26,6 +30,4 @@
   />
   <img src="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="display: block; margin: 0 auto;" />
 </picture>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)
 </p>
