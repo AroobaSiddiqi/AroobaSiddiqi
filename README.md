@@ -7,7 +7,8 @@
 
 <br/><br/>
 
-<img src="[https://picsum.photos/460/300](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)">
+<img src="[https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet]">
+
 
 <br/><br/>
 
