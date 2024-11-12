@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-<img src="[https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet]">
+![](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)
 
 
 <br/><br/>
