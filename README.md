@@ -19,7 +19,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=github_dark&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    srcset="https://github-readme-stats-six-sigma-31.vercel.app/api?username=aroobasiddiqi&show_icons=true&locale=en&count_private=true&theme=outrun&include_all_commits=true&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: dark)"
   />
   <source
