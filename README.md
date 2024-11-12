@@ -7,10 +7,11 @@
 <a href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" /></a>
 &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arooba.asiddiqi@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=gmail&logoColor=white" /></a>
-<br/><br/>
-![](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)
 </div>
 
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=AroobaSiddiqi&style=for-the-badge&color=blueviolet)
 
 <br/><br/>
 
