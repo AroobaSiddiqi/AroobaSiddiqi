@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Arooba Siddiqi 👩🏻‍💻</h1>
-<i>A passionate Frontend Developer</i>
+<p>I enjoy coding ヽ(^o^)ノ </p>
 <br/><br/>
 <a href="https://www.linkedin.com/in/aroobasiddiqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" /></a>
 &nbsp;
